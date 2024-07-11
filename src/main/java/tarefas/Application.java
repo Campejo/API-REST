@@ -1,7 +1,8 @@
-package me.dio.challenge_dio_publish_your_API_REST;
+package tarefas;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import tarefas.controller.TarefaController;
 
 @SpringBootApplication
 public class Application {
