@@ -6,6 +6,7 @@ Esta é uma API RESTful em Java construída com Spring Boot que permite gerencia
 - Spring Boot 3.3.1
 - OpenAPI 2.1.0
 - H2 Database
+- Maven 4.0.0
 
 ## Diagrama de Classes:
 
