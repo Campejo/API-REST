@@ -1,4 +1,4 @@
-package tarefas.model;
+package project.model;
 
 
 import jakarta.persistence.*;

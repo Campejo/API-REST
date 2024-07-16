@@ -1,7 +1,7 @@
-package tarefas.service;
+package project.service;
 
-import tarefas.model.Task;
-import tarefas.model.User;
+import project.model.Task;
+import project.model.User;
 
 import java.util.List;
 

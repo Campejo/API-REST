@@ -1,12 +1,12 @@
-package tarefas.controller;
+package project.controller;
 
 import io.swagger.v3.oas.annotations.Operation;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
-import tarefas.model.Task;
-import tarefas.model.User;
-import tarefas.service.UserService;
+import project.model.Task;
+import project.model.User;
+import project.service.UserService;
 
 import java.net.URI;
 import java.util.List;

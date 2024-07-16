@@ -1,7 +1,7 @@
-package tarefas.repository;
+package project.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-import tarefas.model.User;
+import project.model.User;
 
 public interface UserRepository extends JpaRepository<User, Long> {
 

@@ -1,12 +1,12 @@
-package tarefas.service.impl;
+package project.service.impl;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
-import tarefas.model.Task;
-import tarefas.model.User;
-import tarefas.repository.TasksRepository;
-import tarefas.repository.UserRepository;
-import tarefas.service.UserService;
+import project.model.Task;
+import project.model.User;
+import project.repository.TasksRepository;
+import project.repository.UserRepository;
+import project.service.UserService;
 
 import java.util.List;
 import java.util.NoSuchElementException;
